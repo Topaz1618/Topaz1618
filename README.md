@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Topaz1618 (Hang Yan😉)
-- 👀 I’m interested in Dog, Python and AI.
-- 🌱 I’m currently learning (won't tell anyone for keeping secret.)
-- 📫 How to reach me : Linkedin 😏
+- 👋 Hi, I’m Hang Yan
+- I’m interested in Dog, Python and AI.
+
 
 
 Please check my Projects and follow me! Thanks!
