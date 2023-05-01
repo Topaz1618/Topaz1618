@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Hang Yan
-- I’m interested in Dog, Python and AI.
-
 
 
 Please check my Projects and follow me! Thanks!
