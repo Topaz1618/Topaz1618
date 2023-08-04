@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hang Yan
 
 
-Please check my Projects and follow me! Thanks!
+Please check my Projects and follow me! Thanks!!
 
 
 
