@@ -8,7 +8,7 @@ Passionate developer skilled in front and back end development for different kin
 
 - [Topaz1618/GPTBot](https://github.com/Topaz1618/GPTBot) - GPTBot is a project built on the Tornado framework, utilizing WebSocket for real-time bidirectional communication. 
 
-- [Topaz1618/Topaz1618.github.io](https://github.com/Topaz1618/Topaz1618.github.io) - My personal website and blog. (today)
+- [Topaz1618/Topaz1618.github.io](https://github.com/Topaz1618/Topaz1618.github.io) - My personal website and blog.
 
 - [Topaz1618/CycleganSA](https://github.com/Topaz1618/CycleganSA) - CycleganSA is a PyTorch based implementation of CycleGAN that includes a self-attention mechanism and semantic segmentation. 
 
