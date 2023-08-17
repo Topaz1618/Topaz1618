@@ -19,7 +19,7 @@ Passionate developer skilled in front and back end development for different kin
 
  <br>
  
-#### :round_pushpin: GitHub Activity Graphs 
+#### 📈 GitHub Activity Graphs 
 
 
 <p align="center">:round_pushpin: Profile visitors</p>
@@ -29,6 +29,9 @@ Passionate developer skilled in front and back end development for different kin
    </a>   
 </div>
 
+<br> 
+
+<p align="center"> 💻 Contribution graph:</p>
 <div align="center">
   <a href="https://github.com/Topaz1618">
     <img height="280em alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Topaz1618&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true">
