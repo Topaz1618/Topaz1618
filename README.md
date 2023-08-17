@@ -2,7 +2,7 @@
 
 Passionate developer skilled in front and back end development for different kind of services.Currently working mostly with Python to build web-services. I am more focused in back-end technologies but also have useful experience with latest front-end technologies.
 
-
+<br>
 
 ####  🚀 Projects that I've been working on:
 
