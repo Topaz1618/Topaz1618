@@ -6,6 +6,8 @@ Passionate developer skilled in front and back end development for different kin
 
 ####  🚀 Projects that I've been working on:
 
+- [SwiftPic](https://github.com/Topaz1618/SwiftPic) - SwiftPic powered by FastAPI for the backend and PIL for image manipulation, this web app offers a clean interface for uploading and processing images, with Vue.js handling the frontend.
+
 - [Topaz1618/GPTBot](https://github.com/Topaz1618/GPTBot) - GPTBot is a project built on the Tornado framework, utilizing WebSocket for real-time bidirectional communication. 
 
 - [Topaz1618/Topaz1618.github.io](https://github.com/Topaz1618/Topaz1618.github.io) - My personal website and blog.
@@ -15,6 +17,7 @@ Passionate developer skilled in front and back end development for different kin
 - [Topaz1618/MeowShop](https://github.com/Topaz1618/MeowShop) - Full-stack online shopping website that includes features such as payment functionality, member recharge, product filtering, product sorting, and more.
 
 - [Topaz1618/Plasticine](https://github.com/Topaz1618/Plasticine) - Plasticine Plasticine is a facial deformation application that uses face recognition technology to detect key points on a face and apply deformations to the cheeks, chin, and cheekbones.
+
 
 
  <br>
