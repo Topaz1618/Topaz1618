@@ -1,6 +1,5 @@
 ####  Hi there, it's Hart <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Passionate developer skilled in front and back end development for different kind of services.Currently working mostly with Python to build web-services. I am more focused in back-end technologies but also have useful experience with latest front-end technologies.
 
 <br>
 
